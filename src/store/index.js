@@ -6,7 +6,7 @@ const store = configureStore({
   reducer: {
     cars: carsReducer,
     form: formReducer
-  }
+  },
 });
 
 export { store, addCar, removeCar, changeSearchTerm, changeName, changeCost };

@@ -4,7 +4,7 @@ const CarList = () => {
     <div>
       booom
     </div>
-  )
+  );
 }
 
 export default CarList;
